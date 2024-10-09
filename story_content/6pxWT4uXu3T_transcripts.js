@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":832,"text":"Nystagmus is the involuntary jerkiness of the eyes. "},{"start":4608,"text":"There are many types of nystagmus, "},{"start":7008,"text":"each with its own peculiar characteristics."},{"start":10272,"text":"Normally this jerkiness is not visible to the human eye. "},{"start":14432,"text":"However,  when a person consumes alcohol, "},{"start":16832,"text":"the eyes are unable to maintain visual fixation "},{"start":20416,"text":"while moving side to side. "},{"start":22528,"text":"The eyes appear to slowly drift away from the direction of the gaze "},{"start":26560,"text":"and then quickly drift back."},{"start":29215,"text":"This observable phenomenon "},{"start":31264,"text":"is known as Horizontal Gaze Nystagmus."},{"start":34048,"text":"It is what trained police officers look for "},{"start":36992,"text":"when conducting a field sobriety test of the same name. "}]}]};
+    window.globalLoadJsAsset('story_content/6pxWT4uXu3T_transcripts.js', JSON.stringify(data));
+})();
